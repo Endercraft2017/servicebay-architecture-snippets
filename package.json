@@ -1,0 +1,30 @@
+{
+  "name": "servicebay-architecture-snippets",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+  "test": "vitest run",
+  "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^1.6.1",
+    "zod": "^3.25.76"
+  },
+  "description": "![CI](https://github.com/<Endercraft2017>/servicebay-architecture-snippets/actions/workflows/ci.yml/badge.svg)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endercraft2017/servicebay-architecture-snippets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Endercraft2017/servicebay-architecture-snippets/issues"
+  },
+  "homepage": "https://github.com/Endercraft2017/servicebay-architecture-snippets#readme"
+}
