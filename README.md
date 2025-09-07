@@ -1,6 +1,6 @@
 # ServiceBay Architecture Snippets
 
-![CI](https://github.com/<Endercraft2017>/servicebay-architecture-snippets/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Endercraft2017/servicebay-architecture-snippets/actions/workflows/ci.yml/badge.svg)
 
 This repo illustrates my proposed coding standards and approaches for ServiceBay’s backend and AI workflows.  
 It contains examples of **contracts-first schemas, voice adapter policies, diagnostics determinism, and dispatch explainability**.
